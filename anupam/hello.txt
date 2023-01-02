@@ -4,12 +4,15 @@ zDgvsdg
 MODIICATION ADDED
 new modification added
 
-will be reverted back
-done
+ok ok fine
 
 <<<<<<< HEAD
 ok adding file s experiments
+<<<<<<< HEAD
 =======
 branch head is in sort
 experiment 1234
 >>>>>>> sort
+=======
+new files added of new branch kast one 
+>>>>>>> sortcolor
