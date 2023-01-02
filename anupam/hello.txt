@@ -7,4 +7,9 @@ new modification added
 will be reverted back
 done
 
+<<<<<<< HEAD
 ok adding file s experiments
+=======
+branch head is in sort
+experiment 1234
+>>>>>>> sort
