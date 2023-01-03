@@ -10,7 +10,7 @@ ok ok fine
 ok adding file s experiments
 <<<<<<< HEAD
 =======
-branch head is in sort
+branch head is in sort\\\\\
 experiment 1234
 >>>>>>> sort
 =======
