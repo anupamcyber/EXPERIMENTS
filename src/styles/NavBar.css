@@ -1,0 +1,33 @@
+.NavBar{
+   
+    background-color: rgb(227, 233, 238);
+    padding: 1vmax;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgba(85, 82, 82, 0.137);
+}
+.navlinks{
+    color: rgb(59, 59, 59);
+    text-decoration: none;
+    margin: 1vmax 1.2vmax;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 1.1vmax;
+   
+}
+.logo
+{
+    background-color: rgb(29, 32, 32);
+}
+.SearchBox{
+    position: relative;
+    left:5vmax;
+    font-weight: 100;
+
+}
+.navlinks:hover{
+    color:rgb(218, 103, 61); 
+    
+}
